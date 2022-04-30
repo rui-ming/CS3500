@@ -1,0 +1,41 @@
+canvas 1000 1000
+rectangle name Ground min-x 0 min-y 480.0 width 1000 height 300 color .6 .4 0 from 0 to 200
+oval name Head center-x 620 center-y 300 x-radius 20 y-radius 20 color 1 1 1 from 0 to 200
+oval name Body center-x 610 center-y 340 x-radius 30 y-radius 30 color 1 1 1 from 0 to 200
+oval name Base center-x 600 center-y 400 x-radius 40 y-radius 40 color 1 1 1 from 0 to 200
+oval name Eye1 center-x 630 center-y 305 x-radius 5 y-radius 5 color 0 0 0 from 0 to 200
+oval name Eye2 center-x 645 center-y 305 x-radius 5 y-radius 5 color 0 0 0 from 0 to 200
+rectangle name TreeBase min-x 190.0 min-y 180.0 width 40.0 height 300 color .4 .2 0 from 0 to 200
+oval name Leaves center-x 130 center-y 130 x-radius 75 y-radius 75 color 0 .8 0 from 0 to 200
+oval name Apple center-x 230 center-y 230 x-radius 10 y-radius 10 color 1 0 0 from 0 to 200
+
+move name Head moveto 520 100 300 300 from 0 to 100
+move name Body moveto 510 140 290 340 from 0 to 100
+move name Base moveto 500 200 280 400 from 0 to 100
+move name Eye1 moveto 530 105 310 305 from 0 to 100
+move name Eye2 moveto 545 105 325 305 from 0 to 100
+
+move name Head moveto 300 300 450 300 from 100 to 150
+move name Body moveto 290 340 440 340 from 100 to 150
+move name Base moveto 280 400 430 400 from 100 to 150
+move name Eye1 moveto 310 305 460 305 from 100 to 150
+move name Eye2 moveto 325 305 475 305 from 100 to 150
+
+move name Head moveto 450 300 240 300 from 150 to 170
+move name Body moveto 440 340 230 340 from 150 to 170
+move name Base moveto 430 400 220 400 from 150 to 170
+move name Eye1 moveto 460 305 250 305 from 150 to 170
+move name Eye2 moveto 475 305 265 305 from 150 to 170
+
+move name Head moveto 240 300 390 440 from 170 to 175
+move name Body moveto 230 340 340 420 from 170 to 175
+move name Base moveto 220 400 270 400 from 170 to 175
+move name Eye1 moveto 250 305 415 445 from 170 to 175
+move name Eye2 moveto 265 305 415 465 from 170 to 175
+move name Apple moveto 230 230 230 460 from 175 to 180
+
+move name Head moveto 390 440 300 300 from 180 to 200
+move name Body moveto 340 420 290 340 from 180 to 200
+move name Base moveto 270 400 280 400 from 180 to 200
+move name Eye1 moveto 415 445 310 305 from 180 to 200
+move name Eye2 moveto 415 465 325 305 from 180 to 200

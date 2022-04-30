@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+<svg width="500" height="500">
+<rect id="disk1" x="190.0" y="180.0" width="20.0" height="30.0" style="fill:java.awt.Color[r=0,g=255,b=0]">
+<animate attributeName="y" attributeType="XML" begin="25s" dur="10s" fill="freeze" from="180.0" to="50" /> 
+<animate attributeName="fill" attributeType="CSS" begin="25s" dur="10s" fill="freeze" from="java.awt.Color[r=0,g=255,b=0]" to="java.awt.Color[r=0,g=50,b=90]" /> 
+<animate attributeName="x" attributeType="XML" begin="36s" dur="10s" fill="freeze" from="190.0" to="490" /> 
+<animate attributeName="y" attributeType="XML" begin="47s" dur="10s" fill="freeze" from="50.0" to="240" /> 
+<animate attributeName="y" attributeType="XML" begin="89s" dur="10s" fill="freeze" from="240.0" to="50" /> 
+<animate attributeName="x" attributeType="XML" begin="100s" dur="10s" fill="freeze" from="490.0" to="340" /> 
+<animate attributeName="y" attributeType="XML" begin="111s" dur="10s" fill="freeze" from="50.0" to="210" /> 
+<animate attributeName="y" attributeType="XML" begin="153s" dur="10s" fill="freeze" from="210.0" to="50" /> 
+<animate attributeName="x" attributeType="XML" begin="164s" dur="10s" fill="freeze" from="340.0" to="190" /> 
+<animate attributeName="y" attributeType="XML" begin="175s" dur="10s" fill="freeze" from="50.0" to="240" /> 
+<animate attributeName="y" attributeType="XML" begin="217s" dur="10s" fill="freeze" from="240.0" to="50" /> 
+<animate attributeName="x" attributeType="XML" begin="228s" dur="10s" fill="freeze" from="190.0" to="490" /> 
+<animate attributeName="y" attributeType="XML" begin="239s" dur="10s" fill="freeze" from="50.0" to="180" /> 
+<animate attributeName="x" attributeType="XML" begin="249s" dur="8s" fill="freeze" from="490.0" to="190" /> 
+<animate attributeName="fill" attributeType="CSS" begin="249s" dur="8s" fill="freeze" from="java.awt.Color[r=0,g=50,b=90]" to="java.awt.Color[r=0,g=255,b=0]" /> 
+</rect>
+<rect id="disk2" x="167.0" y="210.0" width="65.0" height="30.0" style="fill:java.awt.Color[r=0,g=255,b=0]">
+<animate attributeName="y" attributeType="XML" begin="57s" dur="10s" fill="freeze" from="210.0" to="50" /> 
+<animate attributeName="fill" attributeType="CSS" begin="57s" dur="10s" fill="freeze" from="java.awt.Color[r=0,g=255,b=0]" to="java.awt.Color[r=7,g=247,b=42]" /> 
+<animate attributeName="x" attributeType="XML" begin="68s" dur="10s" fill="freeze" from="167.0" to="317" /> 
+<animate attributeName="y" attributeType="XML" begin="79s" dur="10s" fill="freeze" from="50.0" to="240" /> 
+<animate attributeName="y" attributeType="XML" begin="185s" dur="10s" fill="freeze" from="240.0" to="50" /> 
+<animate attributeName="x" attributeType="XML" begin="196s" dur="10s" fill="freeze" from="317.0" to="467" /> 
+<animate attributeName="y" attributeType="XML" begin="207s" dur="10s" fill="freeze" from="50.0" to="210" /> 
+<animate attributeName="x" attributeType="XML" begin="217s" dur="8s" fill="freeze" from="467.0" to="167" /> 
+<animate attributeName="fill" attributeType="CSS" begin="217s" dur="8s" fill="freeze" from="java.awt.Color[r=7,g=247,b=42]" to="java.awt.Color[r=0,g=255,b=0]" /> 
+</rect>
+<rect id="disk3" x="145.0" y="240.0" width="110.0" height="30.0" style="fill:java.awt.Color[r=0,g=255,b=0]">
+<animate attributeName="y" attributeType="XML" begin="121s" dur="10s" fill="freeze" from="240.0" to="50" /> 
+<animate attributeName="fill" attributeType="CSS" begin="121s" dur="10s" fill="freeze" from="java.awt.Color[r=0,g=255,b=0]" to="java.awt.Color[r=11,g=46,b=175]" /> 
+<animate attributeName="x" attributeType="XML" begin="132s" dur="10s" fill="freeze" from="145.0" to="445" /> 
+<animate attributeName="y" attributeType="XML" begin="143s" dur="10s" fill="freeze" from="50.0" to="240" /> 
+<animate attributeName="x" attributeType="XML" begin="153s" dur="8s" fill="freeze" from="445.0" to="145" /> 
+<animate attributeName="fill" attributeType="CSS" begin="153s" dur="8s" fill="freeze" from="java.awt.Color[r=11,g=46,b=175]" to="java.awt.Color[r=0,g=255,b=0]" /> 
+</rect>
+</svg>
+</body>
+</html>

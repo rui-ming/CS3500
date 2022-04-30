@@ -1,0 +1,72 @@
+oval name circle0 center-x 25 center-y 200 x-radius 20 y-radius 20 color 0.6009901363885589 0.40978473592628384 0.8680467131660076 from 0 to 200
+oval name circle1 center-x 75 center-y 200 x-radius 20 y-radius 20 color 0.01247641857334314 0.24146281597845565 0.6721423076024512 from 0 to 200
+oval name circle2 center-x 125 center-y 200 x-radius 20 y-radius 20 color 0.7669474832763845 0.34174312129475826 0.2997925946287545 from 0 to 200
+oval name circle3 center-x 175 center-y 200 x-radius 20 y-radius 20 color 0.07517408963871508 0.42283002329697483 0.4119207594650366 from 0 to 200
+oval name circle4 center-x 225 center-y 200 x-radius 20 y-radius 20 color 0.6305106884577354 0.946067289806468 0.5307551471087939 from 0 to 200
+oval name circle5 center-x 275 center-y 200 x-radius 20 y-radius 20 color 0.7246185435932574 0.38722735573621614 0.8429868317668631 from 0 to 200
+oval name circle6 center-x 325 center-y 200 x-radius 20 y-radius 20 color 0.8237266818594171 0.5537853153873733 0.7099823692529232 from 0 to 200
+oval name circle7 center-x 375 center-y 200 x-radius 20 y-radius 20 color 0.7820856431025137 0.9929050272004577 0.752480094312138 from 0 to 200
+move name circle0 moveto 0 0 25 250 from 0 to 50
+move name circle1 moveto 0 0 75 150 from 0 to 50
+move name circle2 moveto 0 0 125 250 from 0 to 50
+move name circle3 moveto 0 0 175 150 from 0 to 50
+move name circle4 moveto 0 0 225 250 from 0 to 50
+move name circle5 moveto 0 0 275 150 from 0 to 50
+move name circle6 moveto 0 0 325 250 from 0 to 50
+move name circle7 moveto 0 0 375 150 from 0 to 50
+move name circle0 moveto 0 0 25 150 from 50 to 100
+move name circle1 moveto 0 0 75 250 from 50 to 100
+move name circle2 moveto 0 0 125 150 from 50 to 100
+move name circle3 moveto 0 0 175 250 from 50 to 100
+move name circle4 moveto 0 0 225 150 from 50 to 100
+move name circle5 moveto 0 0 275 250 from 50 to 100
+move name circle6 moveto 0 0 325 150 from 50 to 100
+move name circle7 moveto 0 0 375 250 from 50 to 100
+move name circle0 moveto 0 0 25 250 from 100 to 150
+move name circle1 moveto 0 0 75 150 from 100 to 150
+move name circle2 moveto 0 0 125 250 from 100 to 150
+move name circle3 moveto 0 0 175 150 from 100 to 150
+move name circle4 moveto 0 0 225 250 from 100 to 150
+move name circle5 moveto 0 0 275 150 from 100 to 150
+move name circle6 moveto 0 0 325 250 from 100 to 150
+move name circle7 moveto 0 0 375 150 from 100 to 150
+move name circle0 moveto 0 0 25 150 from 150 to 200
+move name circle1 moveto 0 0 75 250 from 150 to 200
+move name circle2 moveto 0 0 125 150 from 150 to 200
+move name circle3 moveto 0 0 175 250 from 150 to 200
+move name circle4 moveto 0 0 225 150 from 150 to 200
+move name circle5 moveto 0 0 275 250 from 150 to 200
+move name circle6 moveto 0 0 325 150 from 150 to 200
+move name circle7 moveto 0 0 375 250 from 150 to 200
+move name circle0 moveto 0 0 25 250 from 200 to 250
+move name circle1 moveto 0 0 75 150 from 200 to 250
+move name circle2 moveto 0 0 125 250 from 200 to 250
+move name circle3 moveto 0 0 175 150 from 200 to 250
+move name circle4 moveto 0 0 225 250 from 200 to 250
+move name circle5 moveto 0 0 275 150 from 200 to 250
+move name circle6 moveto 0 0 325 250 from 200 to 250
+move name circle7 moveto 0 0 375 150 from 200 to 250
+move name circle0 moveto 0 0 25 150 from 250 to 300
+move name circle1 moveto 0 0 75 250 from 250 to 300
+move name circle2 moveto 0 0 125 150 from 250 to 300
+move name circle3 moveto 0 0 175 250 from 250 to 300
+move name circle4 moveto 0 0 225 150 from 250 to 300
+move name circle5 moveto 0 0 275 250 from 250 to 300
+move name circle6 moveto 0 0 325 150 from 250 to 300
+move name circle7 moveto 0 0 375 250 from 250 to 300
+move name circle0 moveto 0 0 150 25 from 300 to 350
+move name circle0 moveto 0 0 150 150  from 350 to 400
+move name circle1 moveto 0 0 150 75 from 300 to 350
+move name circle1 moveto 0 0 150 150  from 350 to 400
+move name circle2 moveto 0 0 150 125 from 300 to 350
+move name circle2 moveto 0 0 150 150  from 350 to 400
+move name circle3 moveto 0 0 150 175 from 300 to 350
+move name circle3 moveto 0 0 150 150  from 350 to 400
+move name circle4 moveto 0 0 150 225 from 300 to 350
+move name circle4 moveto 0 0 150 150  from 350 to 400
+move name circle5 moveto 0 0 150 275 from 300 to 350
+move name circle5 moveto 0 0 150 150  from 350 to 400
+move name circle6 moveto 0 0 150 325 from 300 to 350
+move name circle6 moveto 0 0 150 150  from 350 to 400
+move name circle7 moveto 0 0 150 375 from 300 to 350
+move name circle7 moveto 0 0 150 150  from 350 to 400
